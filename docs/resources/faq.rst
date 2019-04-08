@@ -3,9 +3,9 @@
 LocalCoin Airdrop FAQ
 ********************
 
-1. Question 1
+1. I have finished all tasks on Airdrop Bot and have not received my tokens.
 =================
-answer 1
+Your Localcoin LLC airdrop tokens will be credited when airdrop is over.
 
 
 2. Question
